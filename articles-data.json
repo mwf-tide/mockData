@@ -1,0 +1,112 @@
+{
+  "articles": [
+    {
+      "name": "What is crowdfunding?",
+      "slug": "what-is-crowdfunding",
+      "description": "Crowdfunding is a way for businesses to raise money. But what is crowdfunding, and how does it compare to other funding types?",
+      "category": {
+        "title": "Types of business lending ",
+        "slug": "types-of-lending"
+      }
+    },
+    {
+      "name": "Selective invoice financing guide",
+      "slug": "selective-invoice-finance",
+      "description": "Selective invoice finance – also known as spot factoring or single invoice financing – can be useful, but is the right for your business?",
+      "category": {
+        "title": "Invoice finance hub",
+        "slug": "invoice-finance-hub"
+      }
+    },
+    {
+      "name": "A guide to cash flow management ",
+      "slug": "managing-cashflow",
+      "description": "Managing cash flow can be challenging at times, but there are things you can do to manage your cash flow more effectively. ",
+      "category": null
+    },
+    {
+      "name": "Merchant cash advance",
+      "slug": "merchant-cash-advance",
+      "description": "Business owners looking for an instant cash injection can secure a merchant cash advance, and repay it as a fixed percentage of monthly card sales.",
+      "category": {
+        "title": "Types of business lending ",
+        "slug": "types-of-lending"
+      }
+    },
+    {
+      "name": "Invoice discounting vs factoring",
+      "slug": "invoice-factoring-vs-invoice-discounting",
+      "description": "Compare factoring and invoice discounting using our guide to how both these finance types work. ",
+      "category": {
+        "title": "Invoice finance hub",
+        "slug": "invoice-finance-hub"
+      }
+    },
+    {
+      "name": "Debt structure definition",
+      "slug": "structured-debt",
+      "description": "If you're looking for a debt structure definition, you've come to the right place. Find out what it means and explore different structured debt products.",
+      "category": {
+        "title": "Business Loans",
+        "slug": "business-loans-hub"
+      }
+    },
+    {
+      "name": "Business overdraft guide ",
+      "slug": "flexible-business-overdrafts",
+      "description": "Business overdrafts are flexible and can give your business the working capital boost it needs to grow. ",
+      "category": {
+        "title": "Working capital finance hub",
+        "slug": "working-capital-finance-hub"
+      }
+    },
+    {
+      "name": "How can I improve my credit rating?",
+      "slug": "credit-rating",
+      "description": "A bad credit rating can affect your chances of getting a loan with low interest rates, so it’s worth knowing how you can improve your credit rating",
+      "category": null
+    },
+    {
+      "name": "How businesses can lease a car, and how to get the best deal",
+      "slug": "business-car-leasing",
+      "description": "Some car leasing businesses will use the term 'contract hire', while others may say 'operating leases'. Essentially, you’ll lease the car for a period of time",
+      "category": {
+        "title": "Asset Finance",
+        "slug": "asset-finance-hub"
+      }
+    },
+    {
+      "name": "Understanding fixed and floating charge debentures",
+      "slug": "debentures-floating-charges",
+      "description": "Debentures can appear complicated, but once you get to know the basics and the implications of both types of debentures, you'll be able to choose the right one",
+      "category": null
+    },
+    {
+      "name": "Short guide to business credit card expenses",
+      "slug": "business-credit-card-expenses",
+      "description": "Credit cards are a flexible choice for managing business expenses. They provide convenience, security and an easy form of cash flow if repaid monthly",
+      "category": {
+        "title": "Business Credit Cards",
+        "slug": "business-credit-cards-hub"
+      }
+    },
+    {
+      "name": "Business Debtline: Free Debt Advice Service",
+      "slug": "coping-with-debt-business-debtline",
+      "description": "The Business Debtline is the UK’s only free debt advice service for self-employed individuals and small business owners who need advice on debt-related topics",
+      "category": {
+        "title": "Business Challenges",
+        "slug": "business-challenges"
+      }
+    },
+    {
+      "name": "Emergency business finance options when running out of cash",
+      "slug": "emergency-business-finance",
+      "description": "Negative cash flow events can jeopardise your business, however, emergency business finance can be a get-out-of-jail card for struggling businesses.",
+      "category": {
+        "title": "Business Challenges",
+        "slug": "business-challenges"
+      }
+    }
+  ]
+}
